@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my corner of the digital universe! I'm [Your Name], a passionate web developer who loves crafting delightful experiences on the web. 
+Welcome to my corner of the digital universe! I'm Ranajoy Ghosh, a passionate web developer who loves crafting delightful experiences on the web. 
 
 ## About Me
 
@@ -12,7 +12,7 @@ Welcome to my corner of the digital universe! I'm [Your Name], a passionate web 
 
 ## Get in Touch
 
-I'm always open to collaboration and exchanging ideas. Feel free to reach out to me via [mention preferred contact method or social media platform].
+I'm always open to collaboration and exchanging ideas. Feel free to reach out to me via LinkedIn and Twitter.
 
 ## Let's Connect
 
@@ -20,7 +20,3 @@ I'm always open to collaboration and exchanging ideas. Feel free to reach out to
 - 🐦 [Twitter](https://twitter.com/RanajoyGhosh98)
 
 Thank you for visiting my GitHub profile! Let's build something awesome together! 🚀
-
----
-
-Feel free to customize it with your own information and personality!
